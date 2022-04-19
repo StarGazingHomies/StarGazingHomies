@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StarGazingHomies
 - 👀 I’m interested in Minecraft & My Little Pony
-- 🌱 I’m currently learning python
-- 📫 Stargazinghomies@gmail.com
+- 🌱 I’m currently learning C++ and GLSL
+- 📫 stargazinghomies@gmail.com
 
 <!---
 StarGazingHomies/StarGazingHomies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
