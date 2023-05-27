@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarGazingHomies
 - 👀 I’m interested in Minecraft & My Little Pony
-- 🌱 I’m currently learning C++ and GLSL
+- 🌱 I’m currently learning Java and how to mod Minecraft
 - 📫 stargazinghomies@gmail.com
 
 Please get off my profile now... I mean, if that's okay with you.
