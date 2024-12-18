@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StarGazingHomies
 - I'm an undergraduate student (as of this update) in Canada
 - I’m interested in Minecraft & My Little Pony
-- I’m currently doing random stuff I feel ike
+- I’m currently doing random stuff I feel like
 
 Please get off my profile now... I mean, if that's okay with you.
 
